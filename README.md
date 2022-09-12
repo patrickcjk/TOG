@@ -19,7 +19,7 @@ Ouput files goes in the root `Output` directory.
 #include "stdafx.h"
 
 /*
-	Generated using Deathstroke's TGO (https://github.com/patrickcjk/tgo)
+	Generated using Deathstroke's TGO (https://github.com/patrickcjk/tog)
 	At 12/09/2022 21:46:46
 	Game version 0.12.12.31.19428
 */
