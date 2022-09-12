@@ -17,7 +17,7 @@ public class BaseTemplate
     public void AddHeader(string? gameVersion)
     {
         AddInstruction("/*", 0);
-        AddInstruction($"Generated using Deathstroke's TGO (https://github.com/patrickcjk/tgo)", 1);
+        AddInstruction($"Generated using Deathstroke's TOG (https://github.com/patrickcjk/tog)", 1);
         AddInstruction($"At {DateTime.Now}", 1);
         AddInstruction(string.IsNullOrEmpty(gameVersion) ? "Unknown game version" : $"Game version {gameVersion}", 1);
         AddInstruction("*/", 0);
