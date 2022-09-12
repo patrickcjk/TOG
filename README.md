@@ -4,6 +4,7 @@
 
 # TOG : Tarkov Offsets Generator
 (Very) simple Escape From Tarkov offsets generator using Unispect and made with .NET 6.
+Just an old project I decided to publish here on GitHub, nothing special you are warned :)
 
 # How to compile
 Use Visual Studio 2022, select "Release" and compile. Compiled files goes in root `bin` directory.
